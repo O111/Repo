@@ -1,3 +1,0 @@
-print("Greeting")
-print("My friends")
-print("And others")
