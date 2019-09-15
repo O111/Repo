@@ -1,0 +1,2 @@
+print("Greeting")
+print("Are you serious?")
