@@ -1,1 +1,2 @@
 print("Greeting")
+prnt("Are you serious?")
